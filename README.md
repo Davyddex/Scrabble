@@ -24,5 +24,6 @@ We save one variable in one line of the txt document.
 So, we also created function that knows how to read the format that we used to write variable. We just browse each line of the document and look for the name of the variable we want to use and just have to transform the string depending the type of the information we were searching. For example, with a dictionary, we  read the string, then we split it in around ‘¤’, we split each element of the new list around ‘µ’ and to create the dictionary we browse the list of list and add to an empty dictionary a key which is the first element of the list inside the list of list and a value to this key which is the second element of the list inside the list of list and then we return the dictionary.
 
 # Credit
-Davydex : Most of the code \\
+Davydex : Most of the code
+
 Xerian : Backup system + help with the debugging
