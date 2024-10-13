@@ -1,0 +1,7 @@
+After unpack the zip file:
+To load the game double click on StartGame.
+
+Or by opening CoreScrabble in a python interpreter
+
+Or open the windows command prompt by typing cmd in the file ScrabbleGame, 
+then in the command prompt "python CoreScrabble.py".
