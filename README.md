@@ -1,6 +1,7 @@
 # Scrabble Projet
 A python french scrabble game made with a graphical interface and multiplayer over the internet, during my first year of bachelors as a semester project.
 
+Playable and most stable version -> 0.5
 
 The main purpose of this programme is to be able to play games of scrabble in solo versus AI or with friend in local or global (as long as they have a internet connection).
 The programme is composed in to three main script CoreScrabble which is here to bring the graphical interface to the user and the function that rule the game of scrabble. Then there is Server which provide a way to connect Client (CoreScrabble) to one another and there is AI which give the possibility to the computer to “play” the game. The others scripts File_Manager is here to make save and reading of data easier and finally Common_Function is a repertory of function that are not bound to a script but are used into the mains script.
