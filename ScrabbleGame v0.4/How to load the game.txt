@@ -1,0 +1,6 @@
+To load th game open Scrabble.
+
+Or by opening CoreScrabble in a python interpreter
+
+Or open the windows command prompt by typing cmd in the file ScrabbleGame, 
+then in the command prompt "python CoreScrabble.py".
